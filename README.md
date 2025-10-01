@@ -6,7 +6,7 @@ Fullstack developer
 
 I’m interested in web development and pretty every other software engineering
 
-*   🌍  I'm based in Belarus
+*   🌍  I'm currently based in Belarus
 *   ✉️  You can contact me at [vlad23fleganov@gmail.com](mailto:vlad23fleganov@gmail.com)
 *   🧠  I'm currently learning to navigate the evolving landscape of web tech and artificial intelligence, turning complex ideas into elegant, functional realities
 *   👥  I'm looking to collaborate on several different open source projects
@@ -15,9 +15,9 @@ I’m interested in web development and pretty every other software engineering
                   </p>
                   
 
-                ### Socials
+### Socials
                 
-                <p align="left"> <a href="https://www.github.com/VladislavFl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/VladislavFl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 ### Badges
 
